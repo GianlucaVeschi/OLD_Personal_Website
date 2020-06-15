@@ -1,13 +1,15 @@
 @media screen and (max-width: 480px){
+	
 	/*----- layout ----*/
 	.grey-bg, .white-bg{
 		padding: 40px 0; 
 	}
-	/*---- hero -----*/
-	.hero-content{
-		min-width: 280px; 
+	/*---- homesquare -----*/
+	.homesquare-content{
+		width: 280px; 
 		padding: 25px;
 	}
+	
 	.menu-wrap{width: 220px;}
 	.mouse-icon{bottom: 5px;}
 

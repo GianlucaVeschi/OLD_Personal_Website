@@ -25,9 +25,20 @@
     <!--[if lt IE 9]>
        <script type="text/javascript" src="js/html5shiv.min.js"></script>
     <![endif]-->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-40169802-2"></script>
+	
+	<!--Google Analytics gtag.js-->
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){ dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'UA-40169802-2');
+	</script>
+    
   </head>
   <body>
-    <!--PRELOADER-->
+    <!--PRELOADER
     <div id="preloader">
       <div id="status">
         <img alt="logo" src="images/him-logo.png">
@@ -37,13 +48,6 @@
 
     <!--HEADER -->
     <div class="header">
-      <div class="for-sticky">
-        <!--LOGO-->
-        <div class="col-md-2 col-xs-6 logo">
-          <a href="index.html"><img alt="logo" class="logo-nav" src="images/logo.png"></a>
-        </div>
-        <!--/.LOGO END-->
-      </div>
       <div class="menu-wrap">
         <nav class="menu">
           <div class="menu-list">
@@ -103,13 +107,19 @@
         <section id="home">
           <div class="container">
             <div class="row">
-              <div class="wrap-hero-content">
-                  <div class="hero-content">
-                    <h1>Welcome</h1>
+
+              <!-- Change this shitty square -->
+              <div class="wrap-homesquare-content">
+                  <div class="homesquare-content">
+                    <h1>Gianluca Veschi</h1>
+                    <ul>
+                      <h2>Information Engineering Student</h2>
+                      <h2>Android Software Developer</h2>
+                    </ul>
                     <br>
-                    <span class="typed"></span>
                   </div>
               </div>
+
               <div class="mouse-icon margin-20">
                 <div class="scroll"></div>
               </div>

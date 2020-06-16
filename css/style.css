@@ -453,6 +453,9 @@ p {
   letter-spacing: 0.6px;
   font-size: 72px;
 }
+#home li{
+  font-size: 35px;
+}
 #home .typed {
   font-weight: 400;
   font-size: 16px;

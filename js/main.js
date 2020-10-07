@@ -12,6 +12,8 @@
     });    
   });
 
+  //Fade in Home Image
+  $(home).fadeTo(2000,1);
 
   $(document).ready(function(){  
 
@@ -90,7 +92,7 @@
 
     //typed js
     $(".typed").typed({
-        strings: ["My Name is Gianluca Veschi", "I study Information Engineering ","I am a Software Developer" ,"Based in Hamburg"],
+        strings: ["Information Engineering Student","Software Developer"],
         typeSpeed: 100,
         backDelay: 900,
         // loop

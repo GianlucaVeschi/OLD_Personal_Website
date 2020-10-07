@@ -1334,7 +1334,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 }
 
 .feature-sub {
-	background: linear-gradient(to right, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.6)), url(../images/rchhteam_2.jpg) no-repeat center center;
+	background: linear-gradient(to right, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.6)), url(../images/rchhteam2.jpg) no-repeat center center;
 	background-size: cover;
 	padding: 150px 0 150px 0;
 }

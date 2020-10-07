@@ -21,7 +21,7 @@ TABLE OF CONTENTS:
  7.e) blog
  7.f) about
  7.g) contact
- 7.h) footer
+ 7.h) fo
 8) Components
  8.a) skills
 
@@ -505,23 +505,19 @@ p {
 }
 
 .wrap-homesquare-content{
-  width: 100%;
-  height: 100%;
+  margin: auto;
+  /*width: 100%;
+  height: 100%;*/
+  padding: 10px;
   position: relative;
-  top:  200px;
-  right: 700px; 
-
 }
 
 .homesquare-content{
-  position: absolute;
+  margin: auto;
+  position: relative;
   text-align: left;
-  width: 700px;
-  height: 400px;
-  bottom : -200px;
-  left: 35%;
   padding: 65px;
-}
+
 
 /*mouse*/
 .mouse-icon {

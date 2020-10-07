@@ -21,7 +21,7 @@ TABLE OF CONTENTS:
  7.e) blog
  7.f) about
  7.g) contact
- 7.h) footer
+ 7.h) fo
 8) Components
  8.a) skills
 
@@ -518,7 +518,7 @@ p {
   position: relative;
   text-align: left;
   padding: 65px;
-}
+
 
 /*mouse*/
 .mouse-icon {

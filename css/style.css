@@ -492,7 +492,7 @@ p {
 
 /*----------------------------------------- 6) homesquare --------------------------------------------------*/
 #home {
-  background: url('../images/berlin_skyline.jpg');
+  background: url('../images/shanghai_from_adi_constantin_unsplash.jpg');
   opacity: 0;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -516,7 +516,8 @@ p {
 .homesquare-content{
   margin: auto;
   position: relative;
-  text-align: left;
+  text-align: center;
+  color: white;
   padding: 65px;
 
 
